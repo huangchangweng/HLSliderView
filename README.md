@@ -10,7 +10,7 @@ pod 'HLSliderView', '1.0.0'
 
 # Demonstration
 
-![image](https://github.com/huangchangweng/HLSliderView/blob/main/QQ20220610-113300.gif)
+![image](https://github.com/huangchangweng/HLSliderView/blob/main/QQ20220726-111011.gif)
 
 基本使用方法:<p>
 
